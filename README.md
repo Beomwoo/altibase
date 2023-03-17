@@ -14,4 +14,3 @@ Sincerely,
 
 Altibase Corp.
 
-ENTERPRISE GRADE HIGH PERFORMANCE DATABASE www.altibase.com
