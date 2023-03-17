@@ -1,2 +1,0 @@
-#name        #type       #size   #value   
-sequence      ULONG      8       1

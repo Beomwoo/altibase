@@ -1,4 +1,0 @@
-#!/bin/sh
-
-trap "" TSTP
-${ALTIBASE_XDB_HOME}/bin/xdbisql -s localhost -u sys -p manager $*

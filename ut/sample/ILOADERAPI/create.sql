@@ -1,3 +1,0 @@
-DROP TABLE T1;
-CREATE TABLE T1 (I1 integer);
-
