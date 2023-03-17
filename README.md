@@ -1,6 +1,4 @@
-# altibase
-ENTERPRISE GRADE HIGH PERFORMANCE DATABASE www.altibase.com
-
+# Altibase Corp's Policy Update Regarding Open-Source Software
 
 Dear Altibase 7.1 Open Source Edition Users,
 
@@ -15,3 +13,5 @@ Thank you for your understanding and we hope that the Enterprise Edition of Alti
 Sincerely,
 
 Altibase Corp.
+
+ENTERPRISE GRADE HIGH PERFORMANCE DATABASE www.altibase.com
